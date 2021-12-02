@@ -1,12 +1,12 @@
 //
-//  ReverseString.swift
+//  Factorial.swift
 //
 //  Created by Ryan Chung
 //  Created on 2021-12-01
 //  Version 1.0
 //  Copyright (c) 2021 Ryan Chung. All rights reserved.
 //
-//  This program reverses a user-inputted string.
+//  This program calclates the factorial of a user-inputted integer.
 //
 
 import Foundation
