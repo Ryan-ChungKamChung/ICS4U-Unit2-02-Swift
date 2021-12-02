@@ -26,6 +26,7 @@ print("Enter an integer: ", terminator: "")
 
 guard let inputString = readLine(), !inputString.isEmpty else {
     print("Please enter an integer.")
+    print("\nDone.")
     exit(001)
 }
 
