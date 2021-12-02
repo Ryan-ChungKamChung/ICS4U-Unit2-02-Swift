@@ -6,7 +6,7 @@
 //  Version 1.0
 //  Copyright (c) 2021 Ryan Chung. All rights reserved.
 //
-//  This program calclates the factorial of a user-inputted integer.
+//  This program calculates the factorial of a user-inputted integer.
 //
 
 import Foundation
